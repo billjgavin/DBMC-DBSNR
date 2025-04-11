@@ -3,11 +3,9 @@ Code repository to exhibit the DBMC/DBSNR system in order to assist in demonstra
 
 This repository includes:
 
--The synthetic dataset with which training and testing was performed 
+-The dataset with which training and testing was performed 
 
 -MATLAB scripts which provide functionality to extract and manage the dataset 
-
--MATLAB scripts which simulate the functionality of the hardware implementation
 
 -Python scripts which are used to generate weight and bias values for the hardware implementation
 
