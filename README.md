@@ -49,7 +49,7 @@ To quickly test the system follow these steps:
 
 1. Download the full signal dataset from kaggle and place in your MATLAB path
 2. Run DatasetExtractor.m
-3. Run either quickselect.m file depending upon if you desire classification or regression functionality.
+3. Run either quickselect.m file depending upon if you desire classification or regression functionality Important: Ensure the variables "set", "nwaves", and "n" are set correctly 
 4. Copy and paste saved files to your Python path
 5. Run the approriate Python weight generation code
 6. Copy and paste the output weight and bias values to the paraellel_MLP_24bit code in the appropriate location, make sure to comment old weight values
